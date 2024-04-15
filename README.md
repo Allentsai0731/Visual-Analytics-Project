@@ -4,8 +4,11 @@
 
 This page dedicated to my group lab project of Visual Analytics at the Johannes Kepler University Linz.
 
-Our Project is about the insights we have discovered by using the Crime Data of LA City and other supporting data such as population and Income. 
+Our Project is about the insights we have discovered by using the Crime Data of LA City alone with other supporting data such as population and Income. 
 
+You can find all the information including the code, visualisation, and presensation in the above folder.
+
+Although there is a video recording, my on-site presentation was the one got voted as the best in class.
 
 For a detailed project info  [Visual Analytics Moodel page](https://moodle.jku.at/jku/course/view.php?id=25624).
 
