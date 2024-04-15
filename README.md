@@ -29,9 +29,9 @@ Source :(https://controllerdata.lacity.org/dataset/Population-by-Council-Distric
 
 | Student ID    | First Name  | Last Name      | E-Mail | Workload [%]  |
 | --------------|-------------|----------------|--------|---------------|
-| 01523267      | Fahmi       |  Chammas       |fahmichammas@gmail.com    |10%             |
-| 12236246      | Ping Chih   |  Tsai          |pingchihtsai@outlook.com  |80%             |
-| XXX           | XXX         |  XXX           |                          |10%             |
+| 01523267      | Fahmi       |  Chammas       |fahmichammas@gmail.com    |15%             |
+| 12236246      | Ping Chih   |  Tsai          |pingchihtsai@outlook.com  |70%             |
+| XXX           | XXX         |  XXX           |                          |15%             |
 |               |             |                |                          |                | 
 
 ### Contact info 
