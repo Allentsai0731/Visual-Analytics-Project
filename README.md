@@ -35,7 +35,7 @@ Source :(https://controllerdata.lacity.org/dataset/Population-by-Council-Distric
 |               |             |                |                          |                | 
 
 ### Contact info 
-For anyone who has any questions or suggestions please contact Ping-Chih via the mail provided above
+For any questions or suggestions please contact Ping-Chih via the mail provided above
 
 
 
